@@ -1,0 +1,7 @@
+title: Palabras Bravas
+email: holapalabrasbravas@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Un blog sobre aprendiendo el espa&ntilde;ol.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima
